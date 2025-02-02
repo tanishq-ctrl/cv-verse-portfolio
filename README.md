@@ -1,9 +1,8 @@
 # 🌟 Portfolio - Tanishq Prabhu
 
 <div align="center">
-  <img src="public/og-image.png" alt="Portfolio Banner" width="100%">
+
   
-  [![Deploy to GitHub Pages](https://github.com/tanishq-ctrl/cv-verse-portfolio/actions/workflows/deploy.yml/badge.svg)](https://github.com/tanishq-ctrl/cv-verse-portfolio/actions/workflows/deploy.yml)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
